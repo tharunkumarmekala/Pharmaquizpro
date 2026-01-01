@@ -24,6 +24,14 @@
 * **Custom Topic Generation:** Don't see a topic? Type it in, and the AI builds a custom quiz for you. 🛠️
 * **Real-time Feedback:** Instant explanations for every answer to ensure active learning. ✅
 
+## 🏗️ Tech Stack
+
+This project is built using:
+
+- 💻 **Frontend**: HTML5, CSS3, JavaScript (ES6+)  
+- ⚙️ **Logic**: Custom JavaScript algorithms for question randomization and scoring  
+- 📱💻 **Styles**: Responsive design for mobile and desktop viewing  
+
 ## 💻 Local Development
 
 Get your development environment up and running in minutes! ⏱️
