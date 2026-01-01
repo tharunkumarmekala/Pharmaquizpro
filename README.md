@@ -119,7 +119,6 @@ Pharmaquizpro/
 ├── wrangler.jsonc                  # Cloudflare deployment settings ☁️
 ├── .env                            # Local environment variables 🤫
 └── README.md                       # Documentation 📖
-
 ```
 
 ## 🤝 Contributing
